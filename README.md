@@ -2,7 +2,7 @@
 Basis set superposition error (BSSE) extraction
 
 ### Info:
-- [g09_calc_bsse.sh](https://github.com/rangsimanketkaew/library-g09/blob/master/g09_calc_bsse.sh) (exe file is also available.)
+- [g09_calc_bsse.sh](https://github.com/rangsimanketkaew/library-g09/blob/master/g09_calc_bsse.sh)
 - Learning BSSE with Tutorial visit [this website](https://sites.google.com/sci.tu.ac.th/compchem-rk/lesson-2/bsse).
 - Updates history
   + v.1.2.0 : Supports gaussian output file
